@@ -82,13 +82,10 @@ namespace Zad1
         static void Main(string[] args)
         {
             //all test from the E-Mail are here
-            //dfsdfdsftesttest
-            //aaaaaaaaaaa
             
             Console.WriteLine(FileSizeToString(0));
             Console.WriteLine(FileSizeToString(1));
             Console.WriteLine(FileSizeToString(2));
-            Console.WriteLine(FileSizeToString(3));
             Console.WriteLine(FileSizeToString(511));
             Console.WriteLine(FileSizeToString(512));
             Console.WriteLine(FileSizeToString(1023));
